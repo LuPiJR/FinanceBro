@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.python-version
+improvements.md
+IMPLEMENTATION_STATUS.md
+stocks.db
+.DS_Store
+.ruff_cache/
+claude.md
+AGENTS.md
+code_error.md
+RATE_LIMIT_PROTECTION.md
